@@ -13,6 +13,7 @@ int product_stock[10] = {
 
 int veding_menu();
 int veding_input();
+int veding_buy();
 
 int main(){
     printf("---------------------------------------\n");
